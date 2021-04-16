@@ -1,0 +1,18 @@
+
+h3{color: blue;}
+h2{font-size: 35px;}
+h2{font-weight: lighter;} 
+h2{font-size: 20px;}
+
+
+h1.fanny{
+    color: blue;
+    font-family: arial black;
+}
+
+
+.summary {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
